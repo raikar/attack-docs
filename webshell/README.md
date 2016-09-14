@@ -8,3 +8,7 @@ Methods:
 Below lines imports bash and starts a new shell. From here you will able to run commands as normal.
  python -c 'import pty; pty.spawn("/bin/sh")'
  python -c "import pty;pty.spawn('/bin/bash');"
+
+
+* simple-backdoor.php - as noted a very simple php-backdoor
+* php-reverse-shell.php
